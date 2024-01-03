@@ -5,7 +5,7 @@ No more annoying Oculus dash. Transform your Quest device into an almost-native 
 You will no longer be able to play Oculus games, unless you install Revive for SteamVR.
 
 ## Installation
-- Open Task Manager, go to Services and look for OVRService, right click on it and stop it. (If you want to get this done easier, there is a script that you can run in [releases](https://https://github.com/codesoft/SteamBridge/releases/))
+- Open Task Manager, go to Services and look for OVRService, right click on it and stop it. (If you want to get this done easier, there is a script that you can run in [releases](https://github.com/CodeSoftGit/SteamBridge/releases/))
 - Go to *C:\Program Files\Oculus\Support\oculus-dash\dash\bin* in Explorer.
 - Rename the original OculusDash.exe to OculusDash.exe.bak and move the replacement OculusDash.exe into the folder you just opened in Explorer.
 - Go back to Task Manager, look for OVRService again, right click on it and start it.
